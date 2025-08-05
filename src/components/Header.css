@@ -1,0 +1,20 @@
+/* src/components/Header.css */
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #fff;
+  padding: 10px 20px;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.header h1 {
+  font-size: 20px;
+  margin: 0;
+}
+
+.header-icons span {
+  margin-left: 15px;
+  cursor: pointer;
+  font-size: 18px;
+}
