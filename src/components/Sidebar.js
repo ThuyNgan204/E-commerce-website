@@ -10,6 +10,7 @@ export default function Sidebar() {
     { name: 'Dashboard', path: '/admin/dashboard' },
     { name: 'Users', path: '/admin/users' },
     { name: 'Products', path: '/admin/products' },
+    { name: 'Logout', path: '/Login' },
   ];
 
   return (
